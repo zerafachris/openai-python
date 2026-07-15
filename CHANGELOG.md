@@ -1,5 +1,14 @@
 # Changelog
 
+## 2.46.0 (2026-07-15)
+
+Full Changelog: [v2.45.0...v2.46.0](https://github.com/openai/openai-python/compare/v2.45.0...v2.46.0)
+
+### Features
+
+* **api:** add owner_project_access to APIKeyListParams ([f589d04](https://github.com/openai/openai-python/commit/f589d04bf9f377ecb1f54335ab3ab9d825b5dfee))
+* **api:** manual updates ([2eae984](https://github.com/openai/openai-python/commit/2eae984315580cdbf9ceb14d6cb568c581baa768))
+
 ## 2.45.0 (2026-07-09)
 
 Full Changelog: [v2.44.0...v2.45.0](https://github.com/openai/openai-python/compare/v2.44.0...v2.45.0)
